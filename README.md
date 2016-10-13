@@ -41,5 +41,5 @@ All tools in this repository are developed by Francesco Tonini.
 For questions or issues related to these tools, please contact me at:
 
 * Email: ftonini84@gmail.com
-* Website: [www.FrancescoTonini.com](www.FrancescoTonini.com)
+* Website: [www.FrancescoTonini.com](http://www.francescotonini.com/)
 * Twitter: [@f_tonini](https://twitter.com/f_tonini)
