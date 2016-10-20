@@ -1,6 +1,9 @@
 R-ArcGIS Sample Tools
 ======================
 
+![R_ArcGIS_logo](/img/logo.png)
+Format: ![Alt Text](url)
+
 Sample tools illustrating R usage in geoprocessing scripts within ESRI's ArcGIS.
 
 * Sample ArcMap MXD and Dataset
@@ -20,6 +23,15 @@ Requirements
 ### (optional)
 
  - Geostatistical Analyst Extension for ArcGIS
+
+ 
+Factor Analysis for Mixed Data
+-------------------------------
+
+Uses the FactoMineR and missMDA packages from the R software to perform factor analysis on mixed quantitative/qualitative data. See tool documentation for more information.
+
+![FAMD_logo](/img/famd_V2.png)
+Format: ![Alt Text](url)
 
 ## Credits
 
