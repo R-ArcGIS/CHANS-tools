@@ -1,8 +1,7 @@
 R-ArcGIS Sample Tools
 ======================
 
-![R_ArcGIS_logo](/img/logo.png)
-Format: ![Alt Text](url)
+![R_ArcGIS_logo](/img/logo_V2.png)
 
 Sample tools illustrating R usage in geoprocessing scripts within ESRI's ArcGIS.
 
@@ -31,7 +30,6 @@ Factor Analysis for Mixed Data
 Uses the FactoMineR and missMDA packages from the R software to perform factor analysis on mixed quantitative/qualitative data. See tool documentation for more information.
 
 ![FAMD_logo](/img/famd_V2.png)
-Format: ![Alt Text](url)
 
 ## Credits
 
