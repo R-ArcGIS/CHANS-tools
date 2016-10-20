@@ -27,7 +27,7 @@ Requirements
 Factor Analysis for Mixed Data
 -------------------------------
 
-Uses the FactoMineR and missMDA packages from the R software to perform factor analysis on mixed quantitative/qualitative data. See tool documentation for more information.
+Uses the [FactoMineR](http://factominer.free.fr/) and [missMDA](http://math.agrocampus-ouest.fr/infoglueDeliverLive/developpement/missMDA) packages from the R software to perform factor analysis on mixed quantitative/qualitative data. See tool documentation for more information.
 
 ![FAMD_logo](/img/famd_V2.png)
 
