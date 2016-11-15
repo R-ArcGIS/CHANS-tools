@@ -1,9 +1,9 @@
-R-ArcGIS Sample Tools
-======================
+Coupled Human-Natural Systems (CHANS) Tools
+=============================================
 
 ![R_ArcGIS_logo](/img/logo_V2.png)
 
-Sample tools illustrating R usage in geoprocessing scripts within ESRI's ArcGIS.
+Collections of geoprocessing tools for coupled human-natural systems (CHANS) analysis using R scripts within ESRI's ArcGIS.
 
 * Sample ArcMap MXD and Dataset
 * ArcGIS toolbox (.tbx) files
